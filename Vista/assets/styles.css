@@ -1,0 +1,20 @@
+/* Estilo del contenedor del menú */
+.menu-container {
+    width: 400px; /* Ajusta el ancho del contenedor */
+}
+
+/* Estilos de los enlaces del menú */
+.menu-link {
+    display: block;
+    text-decoration: none;
+    font-size: 24px; /* Tamaño de texto más grande */
+    color: #000; /* Texto negro */
+    text-align: center;
+    padding: 15px;
+}
+
+.menu-link:hover {
+    color: #fff; /* Cambiar texto a blanco en hover */
+    background-color: #555; /* Fondo gris oscuro en hover */
+    border-radius: 10px;
+}
